@@ -1,0 +1,84 @@
+nav{
+    background-color: #5D6174; 
+    color: white;
+    padding: 60px;
+    
+
+   
+}
+h1,ul,li{
+    display: inline;
+
+  
+  
+   
+
+}
+
+ul{
+    margin-left: 30%;
+    color: white;   
+   
+}
+a{
+    color:white;
+    text-decoration: none;
+   
+
+}
+a:hover{
+    cursor: pointer;
+    color: black;    
+}
+.box{
+    display: inline-block;
+    border-width:2px ;
+    border-color:#5D6174 ;
+    border-style:solid ;
+    padding: 10px;
+
+}
+
+img{
+    height: 300px;
+    width:280px ;
+}
+.product{
+    text-align: center;
+    margin-top: 20px;
+
+}
+h2{
+    text-align: center;
+    color: black;
+}
+p{
+    text-align: center;
+}
+.box1{
+    display: inline-block;
+    border-width:2px ;
+    border-color:#5D6174 ;
+    border-style:solid ;
+    padding: 10px;
+
+}
+.lorem:hover{
+    color: #5D6174;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+.p1{
+    text-align: left;
+    
+        
+}
+.contact{
+    color: black;
+}
+.a1{
+
+    color: black;
+}
